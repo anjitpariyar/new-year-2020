@@ -55,8 +55,8 @@
             align-items: center; }
     .background .fireworks span {
       background-color: transparent;
-      height: 4px;
-      width: 4px;
+      height: 24px;
+      width: 3px;
       -webkit-animation: fireworks 6s ease-in-out infinite;
               animation: fireworks 6s ease-in-out infinite;
       -webkit-animation-delay: 4s;
