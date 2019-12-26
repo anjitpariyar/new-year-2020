@@ -147,8 +147,8 @@
     -webkit-box-shadow: inset 1px -3px 7px 4px #c5c2c254;
             box-shadow: inset 1px -3px 7px 4px #c5c2c254;
     position: relative;
-    -webkit-animation: snowman 6s ease-in-out infinite reverse;
-            animation: snowman 6s ease-in-out infinite reverse;
+    -webkit-animation: snowman 1s ease-in-out infinite reverse;
+            animation: snowman 1s ease-in-out infinite reverse;
     -webkit-animation-direction: alternate;
             animation-direction: alternate; }
     .background .body .hand {
